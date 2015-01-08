@@ -3,7 +3,7 @@ layout:     post
 title:      "Testen wir mal den Code Renderer"
 subtitle:   "testing, testing, testing"
 date:       2015-01-06 12:00:00
-author:     "Start Bootstrap"
+author:     "rvk"
 header-img: "img/post-bg-01.jpg"
 ---
 
