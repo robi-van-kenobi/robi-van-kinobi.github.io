@@ -14,4 +14,4 @@ header-img: "img/post-bg-06.jpg"
 
 <p>New Version</p>
 
-<script async type="text/javascript" src="//genesis.blogfoster.com:3000/js/bfs.min.js" class="bf-adslot" websiteId="1" adslotId="59"></script>
+<script async type="text/javascript" src="//genesis.blogfoster.com:3000/js/bfs.min.js" class="bf-adslot" websiteId="1" adslotId="61"></script>
