@@ -9,7 +9,6 @@ header-img: "img/post-bg-06.jpg"
 
 <p>Old Version</p>
 
-<script type="text/javascript" src="//genesis.blogfoster.com:3000/js/bfs.min.js"></script>
 <div id="slot_59"></div><script type="text/javascript">blog_getSlotContent(59);</script>
 
 <p>New Version</p>
