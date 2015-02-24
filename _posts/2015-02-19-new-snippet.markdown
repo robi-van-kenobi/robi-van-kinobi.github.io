@@ -9,6 +9,10 @@ header-img: "img/post-bg-06.jpg"
 
 <p>New Version</p>
 
+Footnote [^1]
+
+[^1]: Hier ist die Fußnote
+
 <script async type="text/javascript" src="//genesis.blogfoster.com:3000/js/bfs.min.js" class="bf-adslot" websiteId="1" adslotId="59"></script>
 
 
