@@ -5,7 +5,7 @@ title: "A Post with a Video"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 category: videos
 tags: [sample post, video]
-video: http://www.youtube.com/watch?v=CQJByFp7H38
+video: https://www.youtube.com/embed/lkiAHcsVYTk
 imagefeature: picture-21.jpg
 comments: true
 share: true
